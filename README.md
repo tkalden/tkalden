@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tkalden
 - 👀 I’m interested in writing codes, exploring nature, reading books, playing guitar and learning new technologies.
-- 🌱 I’m currently learning python, investement and doing small projects. 
-- 💞️ I’m looking to collaborate on writing codes to build stock portfolio and writing simple app that alerts subway riders whenever they see danger.
+- 🌱 I’m currently learning deep learning and working on applying Machine Learning to Fashion Recommendation System.
 - 📫 How to reach me : email me at albertkalden@gmail.com
 
 <!---
